@@ -34,7 +34,7 @@
             "size": {
                 "field": "casualties",
                 "type": "quantitative",
-                "scale": {"domain": [2,8]}
+                "scale": {"domain": [0,11]}
             },
             "color": { 
                 "field": "casualties", 
